@@ -12,6 +12,7 @@
 input {
     font-size: 32px;
     margin-bottom: 24px;
+    width: 85%;
     border-radius: 5px;
     border: solid 1px;
     color: rgb(0, 110, 255);
